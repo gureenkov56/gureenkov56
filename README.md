@@ -1,12 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Nik Gureenkov👋</h1>
 
+Hi, I'm Nik, Frontend developer.<br/>
 I got acquainted with HTML and CSS more than 10 years ago. Developing with Javascript and Vue.js since 2020
 
-**My tech stack:**
+**My tech stack 👨‍💻 :**
 * Vue.js + Vue router + Vuex
 * JavaScript
 * HTML
 * CSS / SCSS / SASS
+
+## ⛳️ Finished projects
+- <a href="https://go-to-bed.ru" target="_blank">GoToBed</a> (PWA) - 2022<br/>
+- <a href="https://gureenkov56.ru" target="_blank">My blog</a> - 2022
+
+<br/>
+<div>
+  <a href="https://www.codewars.com/users/gureenkov56">
+    <img src="https://www.codewars.com/users/gureenkov56/badges/small" >
+  </a>
+</div>
+
+## 🌝 Do you wanna find me?
+
+**Contacts:**
+* <a href="http://t.me/gureenkov56">Telegram</a>
+* <a href="mailto:gureenkov56@gmail.com">E-mail</a>
 
 
 <!--
@@ -22,4 +40,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
