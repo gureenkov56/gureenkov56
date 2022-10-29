@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I got acquainted with HTML and CSS more than 10 years ago. Developing with Javascript since 2020
+
+**My tech stack:**
+* Vue.js + Vue router + Vuex
+* JavaScript
+* HTML
+* CSS / SCSS / SASS
+
+
 <!--
 **gureenkov56/gureenkov56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
