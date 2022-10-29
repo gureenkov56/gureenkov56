@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I got acquainted with HTML and CSS more than 10 years ago. Developing with Javascript since 2020
+I got acquainted with HTML and CSS more than 10 years ago. Developing with Javascript and Vue.js since 2020
 
 **My tech stack:**
 * Vue.js + Vue router + Vuex
