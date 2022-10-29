@@ -10,8 +10,8 @@ I got acquainted with HTML and CSS more than 10 years ago. Developing with Javas
 * CSS / SCSS / SASS
 
 ## ⛳️ Finished projects
-- <a href="https://go-to-bed.ru" target="_blank">GoToBed</a> (PWA) - 2022<br/>
-- <a href="https://gureenkov56.ru" target="_blank">My blog</a> - 2022
+- <a href="https://go-to-bed.ru" target="_blank">GoToBed</a> (PWA) | <a href="https://github.com/gureenkov56/go-to-bed">GitHub</a> - 2022<br/>
+- <a href="https://gureenkov56.ru" target="_blank">My blog</a> | <a href="https://github.com/gureenkov56/gureenkov56-blog">GitHub</a> - 2022
 
 <br/>
 <div>
