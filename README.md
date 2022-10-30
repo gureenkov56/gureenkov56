@@ -6,6 +6,7 @@ I got acquainted with HTML and CSS more than 10 years ago. Developing with Javas
 **My tech stack 👨‍💻 :**
 * Vue.js + Vue router + Vuex
 * JavaScript
+* PHP
 * HTML
 * CSS / SCSS / SASS
 
