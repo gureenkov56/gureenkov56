@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nik Gureenkov👋</h1>
 
-Hi, I'm Nik, Frontend developer.<br/>
-I got acquainted with HTML and CSS more than 10 years ago. Developing with Javascript and Vue.js since 2020
+Hi, I'm Nik, Full-stack web-developer.<br/>
+I've been familiar with HTML and CSS more than 10 years ago. Developing with Javascript and Vue.js since 2020
 
 **My tech stack 👨‍💻 :**
 * Vue.js + Vue router + Vuex
@@ -13,6 +13,9 @@ I got acquainted with HTML and CSS more than 10 years ago. Developing with Javas
 ## ⛳️ Finished projects
 - <a href="https://go-to-bed.ru" target="_blank">GoToBed</a> (PWA) | <a href="https://github.com/gureenkov56/go-to-bed">GitHub</a> - 2022<br/>
 - <a href="https://nikitagureenkov.ru" target="_blank">My blog</a> | <a href="https://github.com/gureenkov56/gureenkov56-blog">GitHub</a> - 2022
+
+## 🔭 I’m currently working on:
+- Learning Nest.js for developing full-stack project Nest+React
 
 <br/>
 <div>
